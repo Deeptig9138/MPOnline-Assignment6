@@ -32,17 +32,6 @@ https://api.open-meteo.com/v1/forecast?latitude=28.6139&longitude=77.2090&hourly
 
 ---
 
-# Libraries Used
-
-- requests
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-
----
-
 # Dataset Description
 
 The dataset is collected directly from the **Open-Meteo Weather API** and contains hourly weather observations.
